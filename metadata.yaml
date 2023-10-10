@@ -1,5 +1,8 @@
 _repo: Kapitanleutnant-v-Mollers-letzte-Fahrt_71681
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71681-h/images/cover.jpg
 creator:
   author:
     agent_name: Selow-Serman, K. E.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51695'
     url: http://www.gutenberg.org/2009/agents/51695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71681#Kapitanleutnant-v-Mollers-letzte-Fahrt
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71681'
